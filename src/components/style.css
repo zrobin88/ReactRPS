@@ -1,0 +1,13 @@
+.wrapper{
+  border-radius: 25px;
+}
+.score{
+  padding: 20px; 
+}
+.app_title{
+  text-align: center;
+ 
+}
+.coolFont{
+  font-family: 'Permanent Marker', cursive;
+}
